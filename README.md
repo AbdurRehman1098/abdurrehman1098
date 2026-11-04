@@ -53,7 +53,7 @@ I run **[Fizzy Studios](https://fizzystudio.xyz)** as CEO & developer — an ind
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdurRehman1098&amp;bg_color=0D1016&amp;color=FF5D3B&amp;line=FF5D3B&amp;point=FFFFFF&amp;area=true&amp;area_color=FF5D3B&amp;hide_border=true&amp;custom_title=Contribution%20Activity" width="100%" alt="activity graph" />
+<img src="activity-graph.svg" width="100%" alt="build activity" />
 
 </div>
 
