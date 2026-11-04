@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&amp;color=0:0D1016,100:FF5D3B&amp;height=190&amp;section=header&amp;text=Abdur%20Rehman&amp;fontSize=52&amp;fontColor=FFFFFF&amp;fontAlignY=38&amp;desc=CEO%20%26%20Developer%20%40%20Fizzy%20Studios&amp;descSize=18&amp;descColor=FFB6A1&amp;descAlignY=60&amp;animation=scaleIn" width="100%" />
+<img src="banner.svg" width="100%" alt="Abdur Rehman" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=20&amp;pause=900&amp;color=FF5D3B&amp;center=true&amp;vCenter=true&amp;width=720&amp;height=46&amp;lines=Full-Stack+Developer+%E2%80%94+React+%2F+Node+%2F+TS;Discord+Bots+%E2%80%A2+Minecraft+Plugins+%E2%80%A2+APIs;Licensing+Systems+%26+Premium+Resources;Shipping+on+BuiltByBit" alt="what I do" />
 
@@ -16,15 +16,11 @@
 
 <br/>
 
-```ts
-const abdur = {
-  role:   "CEO & Developer",
-  studio: "Fizzy Studios",
-  stack:  ["TypeScript", "Node.js", "React", "Next.js", "Java"],
-  builds: ["Discord Bots", "Minecraft Plugins", "Licensing Systems", "APIs"],
-  shop:   "builtbybit.com/members/abdur-rehman.800917",
-};
-```
+<div align="center">
+
+<img src="code-card.svg" width="620" alt="const abdur = { role: CEO & Developer, studio: Fizzy Studios }" />
+
+</div>
 
 I run **[Fizzy Studios](https://fizzystudio.xyz)** as CEO & developer — an independent studio where I ship production-ready developer tools, ranking & licensing systems, Minecraft plugins and Discord automation. Most of my work ends up as premium resources on **[BuiltByBit](https://builtbybit.com/members/abdur-rehman.800917/)**. I live in TypeScript and Node, build front-ends in React/Next, and reach for Java when a Minecraft plugin calls for it.
 
@@ -53,7 +49,7 @@ I run **[Fizzy Studios](https://fizzystudio.xyz)** as CEO & developer — an ind
 
 <div align="center">
 
-<img src="activity-graph.svg" width="100%" alt="build activity" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdurRehman1098&amp;bg_color=0D1016&amp;color=FF5D3B&amp;line=FF5D3B&amp;point=FFFFFF&amp;area=true&amp;area_color=FF5D3B&amp;hide_border=true&amp;custom_title=Contribution%20Activity&amp;radius=16" width="100%" alt="contribution activity" />
 
 </div>
 
@@ -64,8 +60,7 @@ I run **[Fizzy Studios](https://fizzystudio.xyz)** as CEO & developer — an ind
 [![Fizzy Studios](https://img.shields.io/badge/Fizzy_Studios-FF5D3B?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1016)](https://fizzystudio.xyz)
 [![BuiltByBit](https://img.shields.io/badge/BuiltByBit-FF5D3B?style=for-the-badge&logo=minecraft&logoColor=white&labelColor=0D1016)](https://builtbybit.com/members/abdur-rehman.800917/)
 [![GitHub](https://img.shields.io/badge/GitHub-FF5D3B?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1016)](https://github.com/AbdurRehman1098)
-[![Email](https://img.shields.io/badge/Email-FF5D3B?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1016)](mailto:abdurrehmansabir15@gmail.com)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&amp;color=0:FF5D3B,100:0D1016&amp;height=90&amp;section=footer" width="100%" />
+<img src="footer-waves.svg" width="100%" alt="" />
