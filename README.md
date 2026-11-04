@@ -36,20 +36,11 @@ I run **[Fizzy Studios](https://fizzystudio.xyz)** as CEO & developer — an ind
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AbdurRehman1098&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0D1016&amp;title_color=FF5D3B&amp;icon_color=FF5D3B&amp;text_color=C9D1D9&amp;include_all_commits=true&amp;count_private=true" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdurRehman1098&amp;layout=compact&amp;hide_border=true&amp;bg_color=0D1016&amp;title_color=FF5D3B&amp;text_color=C9D1D9&amp;langs_count=8" alt="top languages" />
+<img src="github-metrics.svg" width="100%" alt="GitHub metrics — stats, languages and contribution calendar" />
 
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=AbdurRehman1098&amp;hide_border=true&amp;background=0D1016&amp;ring=FF5D3B&amp;fire=FF5D3B&amp;currStreakLabel=FF5D3B&amp;sideNums=C9D1D9&amp;sideLabels=C9D1D9&amp;dates=8B949E&amp;currStreakNum=FFFFFF&amp;dayLabels=C9D1D9" alt="streak" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdurRehman1098&amp;bg_color=0D1016&amp;color=FF5D3B&amp;line=FF5D3B&amp;point=FFFFFF&amp;area=true&amp;area_color=FF5D3B&amp;hide_border=true&amp;custom_title=Contribution%20Activity&amp;radius=16" width="100%" alt="contribution activity" />
 
 </div>
 
