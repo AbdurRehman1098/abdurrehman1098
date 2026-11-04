@@ -24,6 +24,7 @@
 
 </div>
 
+<br/>
 
 I'm Abdur Rehman, CEO and developer at **[Fizzy Studios](https://fizzystudio.xyz)** — a small software studio I run on my own. I build developer tools, ranking and licensing systems, Minecraft plugins, and Discord bots. Most of what I make, I sell as ready-to-use resources on **[BuiltByBit](https://builtbybit.com/members/abdur-rehman.800917/)**. I mainly work with TypeScript and Node, build the front-end side in React and Next.js, and use Java when a Minecraft plugin needs it.
 
