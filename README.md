@@ -1,4 +1,6 @@
-<!-- Only thing to double-check: the Fizzy Studios link (fizzystudio.xyz). Everything else is live. -->
+<!-- Repo files needed: banner.svg, code-card.svg, footer-waves.svg (all in repo root). Check the Fizzy Studios link (fizzystudio.xyz). -->
+<!-- No GitHub Action / external stat services needed — nothing here can break. -->
+
 
 <div align="center">
 
@@ -22,25 +24,13 @@
 
 </div>
 
-I run **[Fizzy Studios](https://fizzystudio.xyz)** as CEO & developer — an independent studio where I ship production-ready developer tools, ranking & licensing systems, Minecraft plugins and Discord automation. Most of my work ends up as premium resources on **[BuiltByBit](https://builtbybit.com/members/abdur-rehman.800917/)**. I live in TypeScript and Node, build front-ends in React/Next, and reach for Java when a Minecraft plugin calls for it.
+I'm Abdur Rehman, CEO and developer at **[Fizzy Studios](https://fizzystudio.xyz)** — a small software studio I run on my own. I build developer tools, ranking and licensing systems, Minecraft plugins, and Discord bots. Most of what I make, I sell as ready-to-use resources on **[BuiltByBit](https://builtbybit.com/members/abdur-rehman.800917/)**. I mainly work with TypeScript and Node, build the front-end side in React and Next.js, and use Java when a Minecraft plugin needs it.
 
 <br/>
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=ts,js,java,nodejs,react,nextjs,mongodb,discord,git&amp;theme=dark&amp;perline=9" alt="stack" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="github-metrics.svg" width="100%" alt="GitHub metrics — stats, languages and contribution calendar" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=AbdurRehman1098&amp;hide_border=true&amp;background=0D1016&amp;ring=FF5D3B&amp;fire=FF5D3B&amp;currStreakLabel=FF5D3B&amp;sideNums=C9D1D9&amp;sideLabels=C9D1D9&amp;dates=8B949E&amp;currStreakNum=FFFFFF&amp;dayLabels=C9D1D9" alt="streak" />
 
 </div>
 
