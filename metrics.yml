@@ -1,0 +1,53 @@
+name: GitHub Metrics
+on:
+  # regenerate twice a day so the data stays fresh
+  schedule:
+    - cron: "0 */12 * * *"
+  # run it by hand from the Actions tab
+  workflow_dispatch:
+  # and on every push to main
+  push:
+    branches: ["main"]
+
+permissions:
+  contents: write
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate github-metrics.svg
+        uses: lowlighter/metrics@latest
+        with:
+          # a Personal Access Token you add as a repo secret named METRICS_TOKEN
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: AbdurRehman1098
+          filename: github-metrics.svg
+          template: classic
+          config_timezone: Asia/Karachi
+
+          # ── core stats (replaces the old stats card): commits, PRs, issues, stars, followers
+          base: header, activity, community, repositories, metadata
+
+          # ── languages (replaces the old top-languages card)
+          plugin_languages: yes
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_limit: 8
+          plugin_languages_sections: most-used
+
+          # ── contribution calendar (replaces the old activity graph)
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+          # ── dark + coral theming to match the README
+          #    (if colors look off after the first run, send me a screenshot and I'll fine-tune this block)
+          extras_css: |
+            :root { --color-calendar-graph-day-bg: #161B22; }
+            svg, body { background: #0D1016 !important; }
+            .background { fill: #0D1016 !important; }
+            h2, .title, .section-title { color: #FF5D3B !important; fill: #FF5D3B !important; }
+            text, tspan, .field, .value, .key, .meta, a, span, p { color: #C9D1D9 !important; fill: #C9D1D9 !important; }
+            .calendar .day[data-level="1"] { fill: #5c2a1d !important; }
+            .calendar .day[data-level="2"] { fill: #a8381f !important; }
+            .calendar .day[data-level="3"] { fill: #e04e2a !important; }
+            .calendar .day[data-level="4"] { fill: #ff5d3b !important; }
